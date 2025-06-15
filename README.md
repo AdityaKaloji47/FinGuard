@@ -1,8 +1,8 @@
-🛡️ Finguard: Personal Budget Planner
+**🛡️ Finguard: Personal Budget Planner**
 
 Finguard is a web-based personal finance management tool designed to empower users with effective budgeting, expense tracking, and financial goal-setting capabilities. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), Finguard offers an intuitive and user-friendly interface that simplifies personal finance management, making it accessible even to individuals with minimal financial expertise.
 
-🔍 Overview
+**🔍 Overview**
 
 Managing personal finances can be challenging, especially without a structured approach. Finguard addresses this by providing a platform where users can:
 
@@ -18,7 +18,7 @@ Gain Investment & Insurance Insights: Access information on various investment o
 
 By offering visual summaries and insights into spending patterns, Finguard aids users in making informed budget decisions and developing better money management habits.
 
-🧰 Features
+**🧰 Features**
 
 User Authentication: Secure registration and login system with hashed passwords.
 
@@ -32,7 +32,7 @@ Savings Goals: Define financial goals with target amounts and track progress ove
 
 Investment & Insurance Information: Details on various investment options like Bonds, Mutual Funds, Stocks, and insurance plans including Health, Life, Home, and more.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend: React.js (TypeScript), Tailwind CSS
 
@@ -42,7 +42,7 @@ Database: MongoDB
 
 Development Tools: Visual Studio Code, npm
 
-🛠️ How to Run the Project Locally
+**🛠️ How to Run the Project Locally**
 
 ⚙️ Setup Backend (Node.js + Express)
 
@@ -75,7 +75,7 @@ Start the Vite development server:
 npm run dev
 The frontend will usually run at http://localhost:5173
 
-📊 Methodology
+**📊 Methodology**
 
 Finguard's development followed a structured approach:
 
@@ -89,7 +89,7 @@ Goal Setting & Recommendations: Tools to define financial goals and receive mont
 
 Investment & Insurance Modules: Informative sections guiding users on various financial products.
 
-📄 Publication
+**📄 Publication**
 
 This project is detailed in the paper:
 
