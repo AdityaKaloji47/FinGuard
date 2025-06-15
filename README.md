@@ -2,6 +2,12 @@
 
 Finguard is a web-based personal finance management tool designed to empower users with effective budgeting, expense tracking, and financial goal-setting capabilities. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), Finguard offers an intuitive and user-friendly interface that simplifies personal finance management, making it accessible even to individuals with minimal financial expertise.
 
+**📸 Application Screenshots**
+Here are some previews of the Finguard: Personal Budget Planner in action:
+
+### 🖼️ 1. Staring Page
+![Starting Page](./project/)
+
 **🔍 Overview**
 
 Managing personal finances can be challenging, especially without a structured approach. Finguard addresses this by providing a platform where users can:
