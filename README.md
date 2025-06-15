@@ -42,6 +42,51 @@ Database: MongoDB
 
 Development Tools: Visual Studio Code, npm
 
+🛠️ How to Run the Project Locally
+
+📁 1. Project Structure
+
+finguard/
+│
+├── src/         # Frontend (Vite + React)
+│   └── ...
+│
+├── server/         # Backend (Node.js + Express)
+│   └── ...
+│
+└── README.md
+
+⚙️ 3. Setup Backend (Node.js + Express)
+
+Step into the server directory:
+cd server
+
+Install backend dependencies:
+npm install
+
+Create a .env file:
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+🔑 You can get a free MongoDB URI from MongoDB Atlas.
+
+Start the backend server:
+node server.js
+The backend will run at: http://localhost:5000
+
+🌐 4. Setup Frontend (Vite + React)
+Step into the client directory:
+cd ../src
+
+Install frontend dependencies:
+npm install
+
+Create a .env file with the backend URL:
+VITE_API_BASE_URL=http://localhost:5000
+
+Start the Vite development server:
+npm run dev
+The frontend will usually run at http://localhost:5173
+
 📊 Methodology
 
 Finguard's development followed a structured approach:
