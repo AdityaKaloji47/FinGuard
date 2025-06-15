@@ -5,8 +5,29 @@ Finguard is a web-based personal finance management tool designed to empower use
 **📸 Application Screenshots**
 Here are some previews of the Finguard: Personal Budget Planner in action:
 
-### 🖼️ 1. Staring Page
-![Starting Page](./project/)
+### 🏠 Main Page
+![Main Page](./images/mainpage.png)
+
+### 📊 Dashboard
+![Dashboard](./images/dashboard.png)
+
+### 💸 Income Page
+![Income Page](./images/incomepage.png)
+
+### 🧾 Expense Page
+![Expense Page](./images/expensepage.png)
+
+### 💰 Savings Page
+![Savings Page](./images/savingspage.png)
+
+### 🎯 Goal Page
+![Goal Page](./images/goalpage.png)
+
+### 🏦 Investment Page
+![Investment Page](./images/investmentpage.png)
+
+### 🛡️ Insurance Page
+![Insurance Page](./images/insurancepage.png)
 
 **🔍 Overview**
 
