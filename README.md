@@ -44,19 +44,7 @@ Development Tools: Visual Studio Code, npm
 
 🛠️ How to Run the Project Locally
 
-📁 1. Project Structure
-
-finguard/
-│
-├── src/         # Frontend (Vite + React)
-│   └── ...
-│
-├── server/         # Backend (Node.js + Express)
-│   └── ...
-│
-└── README.md
-
-⚙️ 3. Setup Backend (Node.js + Express)
+⚙️ Setup Backend (Node.js + Express)
 
 Step into the server directory:
 cd server
@@ -73,7 +61,7 @@ Start the backend server:
 node server.js
 The backend will run at: http://localhost:5000
 
-🌐 4. Setup Frontend (Vite + React)
+🌐 Setup Frontend (Vite + React)
 Step into the client directory:
 cd ../src
 
